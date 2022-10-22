@@ -112,8 +112,23 @@ a.active {
     background-color: #000dff !important;
     color: white;
     font-size: 30px !important;
+    width: 100%;
+    text-align: center;
+    /* margin: 10px 130px; */
+}
+
+.moving {
     width: 80%;
-    margin: 10px 130px;
+    margin: 30px auto;
+    /* border: 1px solid red; */
+}
+
+#moving-text a {
+    color: red;
+}
+
+#moving-text a:hover {
+    color: black;
 }
 
 h2 {
