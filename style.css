@@ -269,3 +269,37 @@ h6 {
     text-align: center;
     color: white;
 }
+
+.mission {
+    /* border: 1px solid black; */
+    width: 65%;
+    display: block;
+    margin: 0px auto;
+}
+
+.hepatitis {
+    border: 2px solid rgb(8, 0, 255);
+    width: 104%;
+    height: auto;
+    /* display: block; */
+    border-radius: 20px;
+}
+
+.hepatitis img {
+    width: 40%;
+    border-radius: 20px;
+    height: 125px;
+}
+
+#mission {
+    text-align: left;
+}
+
+.hepatitis span {
+    /* border: 1px solid red; */
+    font-weight: bolder;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    margin-left: 20px;
+}
